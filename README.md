@@ -11,7 +11,7 @@ Soy un desarrollador fullstack apasionado por la tecnología y la seguridad info
 - **Intereses:** Desarrollo web, seguridad informática, optimización de código  
 
 ### 📫 Conéctate conmigo  
-- GitHub: [Tu perfil aquí]  
+- Correo: [Tu perfil aquí]  
 - LinkedIn: [Tu perfil aquí]  
 - Twitter: [Tu perfil aquí]  
 
